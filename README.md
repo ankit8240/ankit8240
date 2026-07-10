@@ -1,17 +1,18 @@
 <div align="center">
 
-# Hey 👋 I'm Ankit Shaw
+# Hey 👋 I'm ANKIT SHAW
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Always+Learning+New+Things"/>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1200&color=3FB950&center=true&vCenter=true&width=900&lines=Design..+Develop..+Deploy..;FULL+STACK+DEVELOPER..;Building+Scalable+Applications.;Passionate+About+Backend+Development..;Exploring+Artificial+Intelligence..;Turning+Ideas+Into+Reality." />
+</p>
 </div>
-## 💫 About Me
+ 💫 ABOUT ME
 
 Passionate about building technology that creates real-world impact. 🚀
 
 <br>
 
-I'm **Ankit Shaw**, a third-year **Computer Science & Engineering** undergraduate at **Jadavpur University**, driven by curiosity, innovation, and a passion for solving real-world problems through technology.
+I'm **Ankit Shaw**, a Final-year **Computer Science & Engineering** undergraduate at **Jadavpur University**, driven by curiosity, innovation, and a passion for solving real-world problems through technology.
 
 <br>
 
@@ -52,7 +53,7 @@ To contribute to impactful software products that solve real-world challenges, c
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+ 💻 Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />

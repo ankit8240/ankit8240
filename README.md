@@ -1,26 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,35:14532d,70:16a34a,100:22c55e&text=ANKIT%20SHAW&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:09090B,25:18181B,55:2563EB,80:7C3AED,100:EC4899&text=ANKIT%20SHAW&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast&descAlignY=63&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Building+Scalable+Software.;Full+Stack+MERN+Developer.;Backend+Engineering+Enthusiast.;Exploring+Artificial+Intelligence.;Always+Learning.+Always+Building."/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&lines=Building+Scalable+Software....;Software+Engineer.;Full+Stack+MERN+Developer...;Backend+%26+System+Design+Enthusiast...;AI%2FML+Explorer.;Open+Source+Learner..."/>
 <br>
 
 <p align="center">
 
-<a href="https://github.com/ankit8240">
-<img src="https://img.shields.io/github/followers/ankit8240?label=Followers&logo=github&style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/badge/Jadavpur%20University-CSE-2563EB?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
-<a href="https://github.com/ankit8240">
-<img src="https://komarev.com/ghpvc/?username=ankit8240&style=for-the-badge&color=22C55E"/>
-</a>
+<img src="https://img.shields.io/badge/Software%20Engineer-14532D?style=for-the-badge&logo=codeforces&logoColor=white"/>
 
-<a href="mailto:ankittshaw05@gmail.com">
-<img src="https://img.shields.io/badge/Available_for_Internships-22C55E?style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/badge/Full%20Stack-MERN-7C3AED?style=for-the-badge&logo=react&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Backend-Engineering-0F766E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI%2FML-Enthusiast-F97316?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Learner-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
@@ -28,7 +33,7 @@
 
 ---
 
-# 👋 Hello, I'm Ankit Shaw
+#  Hello, I'm Ankit Shaw
 
 I'm a **Computer Science & Engineering undergraduate** at **Jadavpur University**, passionate about designing scalable software, building modern web applications, and solving real-world engineering problems.
 
@@ -268,7 +273,7 @@ System Design               ███████░░░░   70%
 > **"The goal isn't to know everything. The goal is to become better than yesterday through consistent learning and building."**
 ---
 
-# 🏅 Certifications & Professional Development
+# 🏆 Certifications & Achievements
 
 <div align="center">
 
@@ -278,11 +283,11 @@ System Design               ███████░░░░   70%
 
 <td align="center" width="33%">
 
-### 🤖 Artificial Intelligence
+### 🤖 Generative AI
 
 **Generative AI MasterMind**
 
-*OutSkill*
+**OutSkill**
 
 LLMs • Prompt Engineering • AI Applications
 
@@ -294,7 +299,7 @@ LLMs • Prompt Engineering • AI Applications
 
 **Deep Learning Workshop**
 
-*Jadavpur University*
+**Jadavpur University**
 
 Neural Networks • Deep Learning Fundamentals
 
@@ -302,13 +307,13 @@ Neural Networks • Deep Learning Fundamentals
 
 <td align="center" width="33%">
 
-### 💻 Frontend Development
+### 🚀 AI Tools
 
-**Front-End Development**
+**AI Tools & ChatGPT Workshop**
 
-*OneRoadmap*
+**be10x**
 
-Modern UI Development • Responsive Design
+AI Productivity • Automation • Workflow Optimization
 
 </td>
 
@@ -318,33 +323,87 @@ Modern UI Development • Responsive Design
 
 <td align="center">
 
+### 🌐 Google AI
+
+**Build with AI Workshop**
+
+**Google for Developers**
+
+Generative AI • Gemini • Vertex AI
+
+</td>
+
+<td align="center">
+
+### 💻 Frontend Development
+
+**Frontend Development**
+
+**OneRoadmap**
+
+Responsive UI • Modern Web Development
+
+</td>
+
+<td align="center">
+
 ### 🔐 Cyber Security
 
 **Cyber Security Analyst**
 
-*Forage*
+**Forage**
 
 Security Fundamentals • Risk Analysis
 
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center">
 
-### 📚 Continuous Learning
+### 🌟 Leadership
 
-Actively exploring
+**Google Student Ambassador**
 
-System Design
-
-Backend Engineering
-
-Artificial Intelligence
-
-Cloud Technologies
+Community Leadership • Technical Events • Developer Outreach
 
 </td>
 
 <td align="center">
+
+### 📚 Software Engineering
+
+Advanced DSA • Backend Engineering
+
+System Design • REST APIs
+
+Cloud Technologies • AI/ML
+
+</td>
+
+<td align="center">
+
+### 🚀 Engineering Mindset
+
+Building real-world applications
+
+Continuous Learning
+
+Problem Solving
+
+Innovation First
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
 
 ### 🚀 Professional Growth
 
@@ -370,37 +429,21 @@ software engineering.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankit8240&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankit8240&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit8240&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ankit8240&theme=algolia&no-frame=true&margin-w=10"/>
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ankit8240&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+<br>
 
-# 💻 Coding Profiles
+<p align="center">
 
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit8240&theme=tokyo-night&hide_border=true"/>
 
-<a href="https://leetcode.com/">
+</p>
 
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
-</a>
-
-<a href="https://www.hackerrank.com/">
-
-<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
-</a>
-
-</div>
-
----
 
 # 🤝 Let's Connect
 
@@ -434,15 +477,7 @@ software engineering.
 
 ---
 
-# 💬 Engineering Philosophy
 
-<div align="center">
-
-> **"Technology creates impact only when it solves real problems. My goal is to build software that is scalable, reliable, and meaningful while continuously growing as an engineer."**
-
-</div>
-
----
 
 <div align="center">
 

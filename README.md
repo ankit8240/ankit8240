@@ -210,19 +210,7 @@ Currently, I'm focused on strengthening my problem-solving skills through **Data
 
 ---
 
-# 🧠 Engineering Philosophy
 
-> I enjoy building software that is **clean, scalable, secure, and impactful**. My focus is on understanding engineering fundamentals while continuously improving through real-world projects and consistent learning.
-
-### Core Principles
-
-- ✅ Build software that solves real problems
-- ✅ Prioritize readability over complexity
-- ✅ Learn fundamentals before frameworks
-- ✅ Write maintainable and scalable code
-- ✅ Never stop learning
-
----
 
 # 🎯 2026 Goals
 
@@ -476,7 +464,6 @@ software engineering.
 </div>
 
 ---
-
 
 
 <div align="center">

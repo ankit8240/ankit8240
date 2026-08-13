@@ -417,9 +417,11 @@ software engineering.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankit8240&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ankit8240&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ankit8240&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit8240&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
 
 </div>
 
